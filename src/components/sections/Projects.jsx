@@ -24,7 +24,7 @@ export const Projects = () => {
                                 ))}
                             </div>
                             <div className="flex justify-end">
-                                <a href="#" className="text-red-400 hover:text-red-300 transition-colors text-sm sm:text-base inline-flex items-center gap-1">
+                                <a href="https://gospel-columbus.github.io/React-Age-Calculator-App/" className="text-red-400 hover:text-red-300 transition-colors text-sm sm:text-base inline-flex items-center gap-1">
                                     View Project <span className="text-lg">→</span>
                                 </a>
                             </div>
@@ -44,7 +44,7 @@ export const Projects = () => {
                                 ))}
                             </div>
                             <div className="flex justify-end">
-                                <a href="#" className="text-red-400 hover:text-red-300 transition-colors text-sm sm:text-base inline-flex items-center gap-1">
+                                <a href="https://Gospel-Columbus.github.io/React-Faq-Accordion" className="text-red-400 hover:text-red-300 transition-colors text-sm sm:text-base inline-flex items-center gap-1">
                                     View Project <span className="text-lg">→</span>
                                 </a>
                             </div>
@@ -84,7 +84,7 @@ export const Projects = () => {
                                 ))}
                             </div>
                             <div className="flex justify-end">
-                                <a href="#" className="text-red-400 hover:text-red-300 transition-colors text-sm sm:text-base inline-flex items-center gap-1">
+                                <a href="https://Gospel-Columbus.github.io/React-Student-List-UI" className="text-red-400 hover:text-red-300 transition-colors text-sm sm:text-base inline-flex items-center gap-1">
                                     View Project <span className="text-lg">→</span>
                                 </a>
                             </div>
@@ -104,17 +104,17 @@ export const Projects = () => {
                                 ))}
                             </div>
                             <div className="flex justify-end">
-                                <a href="#" className="text-red-400 hover:text-red-300 transition-colors text-sm sm:text-base inline-flex items-center gap-1">
+                                <a href="https://Gospel-Columbus.github.io/React-Contact-Form" className="text-red-400 hover:text-red-300 transition-colors text-sm sm:text-base inline-flex items-center gap-1">
                                     View Project <span className="text-lg">→</span>
                                 </a>
                             </div>
                         </div>
 
-                        {/* Recipe Page */}
+                        {/* Receipe Page */}
                         <div className="p-4 sm:p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-red-500/30 hover:shadow-[0_2px_8px_rgba(239,68,68,0.2)] transition-all duration-300">
-                            <h3 className="text-lg sm:text-xl font-bold mb-2">Recipe Page</h3>
+                            <h3 className="text-lg sm:text-xl font-bold mb-2">Receipe Page</h3>
                             <p className="text-sm sm:text-base text-gray-400 mb-3 sm:mb-4">
-                                Developed a responsive Recipe Page UI from a design specification, implementing semantic HTML structure and modern CSS styling
+                                Developed a responsive Receipe Page UI from a design specification, implementing semantic HTML structure and modern CSS styling
                             </p>
                             <div className="flex flex-wrap gap-1.5 sm:gap-2 mb-3 sm:mb-4">
                                 {["HTML", "CSS"].map((tech, key) => (

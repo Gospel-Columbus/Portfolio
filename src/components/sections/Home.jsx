@@ -8,7 +8,7 @@ export const Home = () => {
         <div className="text-center z-10 px-4">
             <h1 style={{fontSize: '3rem',fontWeight: 'bold',marginBottom: '1.5rem',background: 'linear-gradient(to right, #ef4444, #9333ea)',
             WebkitBackgroundClip: 'text',WebkitTextFillColor: 'transparent',backgroundClip: 'text',lineHeight: '1.2'}}>
-                Hello, I'm Gospel Columbus
+                Hi, I'm Gospel Columbus
 </h1>
 <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto">
     A passionate and detail-oriented Frontend Developer who specializes in building responsive, user-friendly, and visually
