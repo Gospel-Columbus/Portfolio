@@ -43,7 +43,7 @@ export const About = () =>{
                         <ul className="list-disc list-inside text-gray-300 space-y-2">
                             <li>
                                 <strong> HND (Technical Degree) in Electrical and Electronics Engineering</strong> -<br /> Akwa Ibom State Polytechnic 
-                                (2020-2025)
+                                (2023-2025)
                             </li>
                             <li>
                                 Relevant Coursework: HTML5, CSS3, JavaScript (ES6), React, Responsive Web Design, REST API Integration, Git & GitHub.

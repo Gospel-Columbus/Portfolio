@@ -57,14 +57,14 @@ export const Projects = () => {
                                 Developed a functional e-commerce website with cart logic and responsive design
                             </p>
                             <div className="flex flex-wrap gap-1.5 sm:gap-2 mb-3 sm:mb-4">
-                                {["HTML", "CSS", "JavaScript", "React"].map((tech, key) => (
+                                {["HTML", "CSS", "JavaScript",].map((tech, key) => (
                                     <span key={key} className="bg-red-500/10 text-red-500 py-1 px-2 sm:px-3 rounded-full text-xs sm:text-sm hover:bg-red-500/20 transition-all">
                                         {tech}
                                     </span>
                                 ))}
                             </div>
                             <div className="flex justify-end">
-                                <a href="#" className="text-red-400 hover:text-red-300 transition-colors text-sm sm:text-base inline-flex items-center gap-1">
+                                <a href="https://gospel-columbus.github.io/E-commerce-One/" className="text-red-400 hover:text-red-300 transition-colors text-sm sm:text-base inline-flex items-center gap-1">
                                     View Project <span className="text-lg">→</span>
                                 </a>
                             </div>
