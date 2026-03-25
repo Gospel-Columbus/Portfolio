@@ -12,7 +12,7 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
 
           {/* Logo */}
           <a href="#home" className="font-mono text-xl font-bold text-white">
-            Gospel Columbus <span className="text-red-500"> Portfolio</span>
+            GC.
           </a>
 
           {/* Hamburger Menu (Mobile) */}
