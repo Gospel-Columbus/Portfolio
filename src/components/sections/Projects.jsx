@@ -14,7 +14,7 @@ export const Projects = () => {
                         <div className="p-4 sm:p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-red-500/30 hover:shadow-[0_2px_8px_rgba(239,68,68,0.2)] transition-all duration-300">
                             <h3 className="text-lg sm:text-xl font-bold mb-2">Age Calculator App</h3>
                             <p className="text-sm sm:text-base text-gray-400 mb-3 sm:mb-4">
-                                Built a precision date calculator that determines the exact age in years, months, and days based on user-submitted birth dates
+                                Built a precision date calculator that determines the exact age in years, months, and days based on user-submitted birth dates.
                             </p>
                             <div className="flex flex-wrap gap-1.5 sm:gap-2 mb-3 sm:mb-4">
                                 {["HTML", "CSS", "JavaScript", "React"].map((tech, key) => (
@@ -34,7 +34,7 @@ export const Projects = () => {
                         <div className="p-4 sm:p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-red-500/30 hover:shadow-[0_2px_8px_rgba(239,68,68,0.2)] transition-all duration-300">
                             <h3 className="text-lg sm:text-xl font-bold mb-2">FAQ Accordion</h3>
                             <p className="text-sm sm:text-base text-gray-400 mb-3 sm:mb-4">
-                                Built a clean, interactive FAQ section that Hide/Show the answer to a question when the question is clicked
+                                Built a clean, interactive FAQ section that Hide/Show the answer to a question when the question is clicked.
                             </p>
                             <div className="flex flex-wrap gap-1.5 sm:gap-2 mb-3 sm:mb-4">
                                 {["HTML", "CSS", "JavaScript", "React"].map((tech, key) => (
@@ -54,7 +54,7 @@ export const Projects = () => {
                         <div className="p-4 sm:p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-red-500/30 hover:shadow-[0_2px_8px_rgba(239,68,68,0.2)] transition-all duration-300">
                             <h3 className="text-lg sm:text-xl font-bold mb-2">E-Commerce Website</h3>
                             <p className="text-sm sm:text-base text-gray-400 mb-3 sm:mb-4">
-                                Developed a functional e-commerce website with cart logic and responsive design
+                                Developed a functional e-commerce website with cart logic and responsive design.
                             </p>
                             <div className="flex flex-wrap gap-1.5 sm:gap-2 mb-3 sm:mb-4">
                                 {["HTML", "CSS", "JavaScript",].map((tech, key) => (
@@ -74,7 +74,7 @@ export const Projects = () => {
                         <div className="p-4 sm:p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-red-500/30 hover:shadow-[0_2px_8px_rgba(239,68,68,0.2)] transition-all duration-300">
                             <h3 className="text-lg sm:text-xl font-bold mb-2">Student List UI</h3>
                             <p className="text-sm sm:text-base text-gray-400 mb-3 sm:mb-4">
-                                Developed a responsive Student List UI with complete CRUD functionality, implementing dynamic data rendering for efficient student record management
+                                Developed a responsive Student List UI with complete CRUD functionality, implementing dynamic data rendering for efficient student record management.
                             </p>
                             <div className="flex flex-wrap gap-1.5 sm:gap-2 mb-3 sm:mb-4">
                                 {["HTML", "CSS", "JavaScript", "React"].map((tech, key) => (
@@ -94,7 +94,7 @@ export const Projects = () => {
                         <div className="p-4 sm:p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-red-500/30 hover:shadow-[0_2px_8px_rgba(239,68,68,0.2)] transition-all duration-300">
                             <h3 className="text-lg sm:text-xl font-bold mb-2">Contact Form</h3>
                             <p className="text-sm sm:text-base text-gray-400 mb-3 sm:mb-4">
-                                Built a Contact Form that completes the form and shows a success toast message upon successful submission
+                                Built a Contact Form that completes the form and shows a success toast message upon successful submission.
                             </p>
                             <div className="flex flex-wrap gap-1.5 sm:gap-2 mb-3 sm:mb-4">
                                 {["HTML", "CSS", "JavaScript", "React"].map((tech, key) => (
@@ -114,7 +114,7 @@ export const Projects = () => {
                         <div className="p-4 sm:p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-red-500/30 hover:shadow-[0_2px_8px_rgba(239,68,68,0.2)] transition-all duration-300">
                             <h3 className="text-lg sm:text-xl font-bold mb-2">Receipe Page</h3>
                             <p className="text-sm sm:text-base text-gray-400 mb-3 sm:mb-4">
-                                Developed a responsive Receipe Page UI from a design specification, implementing semantic HTML structure and modern CSS styling
+                                Developed a responsive Receipe Page UI from a design specification, implementing semantic HTML structure and modern CSS styling.
                             </p>
                             <div className="flex flex-wrap gap-1.5 sm:gap-2 mb-3 sm:mb-4">
                                 {["HTML", "CSS"].map((tech, key) => (
@@ -134,7 +134,7 @@ export const Projects = () => {
                         <div className="p-4 sm:p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-red-500/30 hover:shadow-[0_2px_8px_rgba(239,68,68,0.2)] transition-all duration-300">
                             <h3 className="text-lg sm:text-xl font-bold mb-2">Bento Grid</h3>
                             <p className="text-sm sm:text-base text-gray-400 mb-3 sm:mb-4">
-                                Developed a complex, responsive Bento Grid interface using CSS Grid and modern layout techniques
+                                Developed a complex, responsive Bento Grid interface using CSS Grid and modern layout techniques.
                             </p>
                             <div className="flex flex-wrap gap-1.5 sm:gap-2 mb-3 sm:mb-4">
                                 {["HTML", "CSS"].map((tech, key) => (
@@ -154,7 +154,7 @@ export const Projects = () => {
                         <div className="p-4 sm:p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-red-500/30 hover:shadow-[0_2px_8px_rgba(239,68,68,0.2)] transition-all duration-300">
                             <h3 className="text-lg sm:text-xl font-bold mb-2">Social Links Profile</h3>
                             <p className="text-sm sm:text-base text-gray-400 mb-3 sm:mb-4">
-                                Built a pixel-perfect Social Links Profile interface from design specifications
+                                Built a pixel-perfect Social Links Profile interface from design specifications.
                             </p>
                             <div className="flex flex-wrap gap-1.5 sm:gap-2 mb-3 sm:mb-4">
                                 {["HTML", "CSS"].map((tech, key) => (
@@ -174,7 +174,7 @@ export const Projects = () => {
                         <div className="p-4 sm:p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-red-500/30 hover:shadow-[0_2px_8px_rgba(239,68,68,0.2)] transition-all duration-300">
                             <h3 className="text-lg sm:text-xl font-bold mb-2">Product List with Cart</h3>
                             <p className="text-sm sm:text-base text-gray-400 mb-3 sm:mb-4">
-                                Developed a responsive Product List with Cart application featuring dynamic cart updates
+                                Developed a responsive Product List with Cart application featuring dynamic cart updates.
                             </p>
                             <div className="flex flex-wrap gap-1.5 sm:gap-2 mb-3 sm:mb-4">
                                 {["HTML", "CSS"].map((tech, key) => (
@@ -194,7 +194,7 @@ export const Projects = () => {
                         <div className="p-4 sm:p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-red-500/30 hover:shadow-[0_2px_8px_rgba(239,68,68,0.2)] transition-all duration-300">
                             <h3 className="text-lg sm:text-xl font-bold mb-2">Column Preview Card</h3>
                             <p className="text-sm sm:text-base text-gray-400 mb-3 sm:mb-4">
-                                Built a fully responsive Column Preview Card interface with structured layout
+                                Built a fully responsive Column Preview Card interface with structured layout.
                             </p>
                             <div className="flex flex-wrap gap-1.5 sm:gap-2 mb-3 sm:mb-4">
                                 {["HTML", "CSS"].map((tech, key) => (
