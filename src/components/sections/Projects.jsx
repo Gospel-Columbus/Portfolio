@@ -74,7 +74,7 @@ export const Projects = () => {
                         <div className="p-4 sm:p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-red-500/30 hover:shadow-[0_2px_8px_rgba(239,68,68,0.2)] transition-all duration-300">
                             <h3 className="text-lg sm:text-xl font-bold mb-2">Student List UI</h3>
                             <p className="text-sm sm:text-base text-gray-400 mb-3 sm:mb-4">
-                                Develop a responsive Student List UI with complete CRUD functionality, implementing dynamic data rendering for efficient student record management
+                                Developed a responsive Student List UI with complete CRUD functionality, implementing dynamic data rendering for efficient student record management
                             </p>
                             <div className="flex flex-wrap gap-1.5 sm:gap-2 mb-3 sm:mb-4">
                                 {["HTML", "CSS", "JavaScript", "React"].map((tech, key) => (

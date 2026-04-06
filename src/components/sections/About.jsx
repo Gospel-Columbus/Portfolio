@@ -58,9 +58,9 @@ export const About = () =>{
                                 <h4 className="font-semibold"> 
                                     {" "}
                                     Frontend Developer - Personal Projects (2024 - Present){" "}</h4>
-                                <p> Developed a Student Management CRUD application using React </p>
-                                <p> Built a responsive FAQ Accordion interface with modern CSS styling</p>
-                                <p> Created an Age Calculator with dynamic JavaScript logic</p>
+                                <p> Developed a Student Management CRUD application using React. </p>
+                                <p> Built a responsive FAQ Accordion interface with modern CSS styling.</p>
+                                <p> Created an Age Calculator with dynamic JavaScript logic.</p>
                             </div>
                         </div>
                     </div>
